@@ -1,0 +1,11 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "album-app": "apps/album-app",
+    "album-app-e2e": "apps/album-app-e2e",
+    "api": "apps/api",
+    "api-interface": "libs/api-interface",
+    "ui-header": "libs/ui-header"
+  }
+}
